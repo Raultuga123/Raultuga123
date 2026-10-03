@@ -14,16 +14,14 @@ I have experience in IT support, hardware, troubleshooting, Windows/Linux and we
 - 🖥️ Windows
 - 🔧 IT Support, Hardware & Troubleshooting
 - 🌐 Basic Networking
+- 🐍 Python
 
 ## 🚀 Projects
 
-I'm currently organizing and publishing my projects on GitHub.
+- 🌐 **NetworkMonitor** — Network diagnostic tool built with C# and WPF
+- 🐍 **SnakeAI** — Snake game with an AI mode, built in C++
 
-Projects coming soon:
-- 🐍 Snake Game — C#
-- 🎮 3D Endless Runner — Unity & C#
-- 🌐 Arcada Cocktail Club — Web Development
-- 🌐 Cruz Vermelha Tavira — Website Redesign
+More projects can be found in my repositories.
 
 ## 🌱 Currently
 
